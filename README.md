@@ -6,4 +6,4 @@ To run the tests COPY your files into this directory and use test_indv.sh:
     bash test_indv.sh
 
 # WARNING:
-The batch test deletes files, renamed to test_deletesFILES, it is meant to be run from a separate directory in the same parent folder.  It will automatically copy your code over to this directory and remove the files after.
+The batch test deletes files, renamed to test_deletesFILES.sh, it is meant to be run from a separate directory in the same parent folder.  It will automatically copy your code over to this directory and remove the files after.
